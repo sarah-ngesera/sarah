@@ -1,0 +1,41 @@
+body {
+    background-color: #f0f0f0; /* Couleur de fond gris clair */
+    color: #333333; /* Couleur de texte gris foncé */
+    font-family: Arial, sans-serif; /* Police par défaut */
+    margin: 0; /* Supprime la marge par défaut */
+    padding: 20px; /* Ajoute un peu de padding autour du contenu */
+}
+
+/* Style pour les titres */
+h1 {
+    color: #4CAF50; /* Couleur verte pour les titres */
+    text-align: center; /* Centrer les titres */
+    font-size: 2.5em; /* Taille de police augmentée */
+    margin-bottom: 20px; /* Espacement en dessous du titre */
+}
+
+/* Style pour les paragraphes */
+p {
+    line-height: 1.6; /* Espacement des lignes pour les paragraphes */
+    margin: 20px; /* Marge autour des paragraphes */
+    font-size: 1.2em; /* Taille de police légèrement augmentée */
+}
+
+/* Ajout de bordures et de padding */
+div {
+    border: 2px solid #4CAF50; /* Bordure verte de 2px */
+    padding: 20px; /* Espacement intérieur de 20px */
+    margin: 20px; /* Marge autour des divs */
+}
+
+/* Style pour les boutons */
+button {
+    background-color: #4CAF50; /* Couleur de fond verte */
+    color: white; /* Couleur du texte en blanc */
+    padding: 15px 20px; /* Espacement intérieur du bouton */
+    border: none; /* Pas de bordure */
+    cursor: pointer; /* Changer le curseur en pointeur */
+}
+
+/* Effet de survol pour les boutons */
+button:hover {
